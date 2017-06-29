@@ -1,0 +1,21 @@
+
+#stage-container {
+  position: relative;
+  height: 240px;
+  width: 540px;
+  margin: 0 auto;
+}
+
+svg {
+	margin: 20px;
+  fill:#222;
+}
+
+#stage {
+  position: absolute;
+  text-transform: uppercase;
+  color: white;
+  z-index: 10;
+  top: 30%;
+  right: 40%;
+}
